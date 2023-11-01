@@ -10,7 +10,7 @@
       Live Link
     </a>
     <span> | </span>
-    <a href="https://devchallenges.io/challenges/wBunSb7FPrIepJZAg0sY">
+    <a href="https://legacy.devchallenges.io/challenges/wBunSb7FPrIepJZAg0sY">
       Challenge
     </a>
   </h3>
@@ -25,7 +25,7 @@
 
 ## Overview
 
-Devchallenges is a lesser frontendmentor but I'm glad I discovered it as it gives me more projects to complete.  
+Devchallenges is a lesser Frontend Mentor but I'm glad I discovered it as it gives me more projects to complete.  
 
 ![](404-not-found-desktop.png)
 
@@ -38,7 +38,7 @@ Devchallenges is a lesser frontendmentor but I'm glad I discovered it as it give
 
 ## Features
 
-This application/site was created as a submission to a [DevChallenges](https://devchallenges.io/challenges) challenge. The [challenge](https://devchallenges.io/challenges/wBunSb7FPrIepJZAg0sY) was to build an application to complete the given user stories.
+This application/site was created as a submission to a [DevChallenges](https://devchallenges.io/challenges) challenge. The [challenge](https://legacy.devchallenges.io/challenges/wBunSb7FPrIepJZAg0sY) was to build an application to complete the given user stories.
 
 ## Useful Resources
 
