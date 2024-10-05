@@ -2,18 +2,27 @@ html {
     box-sizing: border-box;
     font-size: 16px;
 }
-  
-*, *:before, *:after {
+
+*,
+*:before,
+*:after {
     box-sizing: inherit;
 }
-  
-body, h1, h2, h3, h4, h5, h6, p {
+
+body,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p {
     margin: 0;
     padding: 0;
     font-weight: normal;
     font-family: "Poppins", sans-serif;
 }
-  
+
 img {
     max-width: 100%;
     height: auto;
@@ -36,7 +45,7 @@ main {
     gap: 20px;
 }
 
-section > * {
+section>* {
     margin-bottom: 20px;
 }
 
@@ -67,13 +76,13 @@ input {
     border: none;
     padding: 10px 20px;
 }
-  
-@media (min-width: 1000px){
-    
+
+@media (min-width: 1000px) {
+
     body {
         padding: 40px;
     }
-    
+
     main {
         grid-template-columns: 1fr 1fr;
         align-items: center;

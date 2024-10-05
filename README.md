@@ -10,7 +10,7 @@
       Live Link
     </a>
     <span> | </span>
-    <a href="https://legacy.devchallenges.io/challenges/wBunSb7FPrIepJZAg0sY">
+    <a href="https://web.archive.org/web/20240526055930/https://legacy.devchallenges.io/challenges/wBunSb7FPrIepJZAg0sY">
       Challenge
     </a>
   </h3>
@@ -25,11 +25,11 @@
 
 ## Overview
 
-Devchallenges is a lesser Frontend Mentor but I'm glad I discovered it as it gives me more projects to complete.  
+Devchallenges is a lesser Frontend Mentor, but I'm glad I discovered it as it gives me more projects to complete.  
 
-![](404-not-found-desktop.png)
+![Desktop](404-not-found-desktop.png)
 
-![](404-not-found-mobile.png)
+![Mobile](404-not-found-mobile.png)
 
 ### Built With
 
@@ -38,10 +38,10 @@ Devchallenges is a lesser Frontend Mentor but I'm glad I discovered it as it giv
 
 ## Features
 
-This application/site was created as a submission to a [DevChallenges](https://devchallenges.io/challenges) challenge. The [challenge](https://legacy.devchallenges.io/challenges/wBunSb7FPrIepJZAg0sY) was to build an application to complete the given user stories.
+This application/site was created as a submission to a [DevChallenges](https://devchallenges.io/challenges) challenge. The [challenge](https://web.archive.org/web/20240526055930/https://legacy.devchallenges.io/challenges/wBunSb7FPrIepJZAg0sY) was to build an application to complete the given user stories. **Note**: The previous design document may be incomplete, as you need to find an archived version of the challenge as all `legacy` challenges have had their documentation removed from DevChallenges.
 
 ## Useful Resources
 
 - [Steps to replicate a design with only HTML and CSS](https://devchallenges-blogs.web.app/how-to-replicate-design/)
-- [Digital Ocean](https://www.digitalocean.com/community/tutorials/css-minimal-css-reset) - minimal css reset
+- [Digital Ocean](https://www.digitalocean.com/community/tutorials/css-minimal-css-reset) - minimal CSS reset
 - [Stack Overflow](https://stackoverflow.com/questions/710089/how-do-i-make-an-html-link-look-like-a-button) - link like a button
